@@ -9,4 +9,4 @@ Hardware Supported: Teensy 2.0
 
 Make example for this keyboard: (run in ___ folder)
 
-    make vortex_core:default
+    qmk compile -kb vortex_core -km default
